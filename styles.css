@@ -809,6 +809,55 @@ video {
     }
 }
 
+
+@media (max-width: 381px) {
+
+    * {
+        max-width: 100%;
+    }
+
+
+    .left-font-icon {
+        margin-right: 57px;
+    }
+
+    .hero-image img {
+        height: 25vh;
+        width: 131%;
+    }
+
+    .hero-content {
+        top: 10%;
+        left: 5%;
+        font-size: 5px;
+    }
+}
+
+
+@media (max-width: 380px) {
+
+    * {
+        max-width: 100%;
+    }
+
+
+    .left-font-icon {
+        margin-right: 57px;
+    }
+
+    .hero-image img {
+        height: 25vh;
+        width: 131%;
+    }
+
+    .hero-content {
+        top: 10%;
+        left: 5%;
+        font-size: 5px;
+    }
+
+}
+
 @media (max-width: 379px) {
 
     * {
